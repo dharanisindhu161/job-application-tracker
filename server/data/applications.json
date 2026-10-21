@@ -1,0 +1,132 @@
+[
+  {
+    "id": "app-001",
+    "userId": "demo-user-id-001",
+    "company": "Stripe",
+    "role": "Senior Full Stack Engineer",
+    "jobLink": "https://stripe.com/jobs/full-stack-engineer",
+    "salaryExpectation": 165000,
+    "applicationDate": "2026-10-10",
+    "status": "Interview",
+    "interviewDates": [
+      {
+        "id": "int-1",
+        "date": "2026-10-18T10:00:00.000Z",
+        "round": "Recruiter Screen",
+        "notes": "Discussion about experience with distributed systems and APIs.",
+        "completed": true
+      },
+      {
+        "id": "int-2",
+        "date": "2026-10-25T14:30:00.000Z",
+        "round": "System Design Interview",
+        "notes": "Prepare payment pipeline architecture and cache invalidation.",
+        "completed": false
+      }
+    ],
+    "notes": "Tech stack matches perfectly: Node.js, React, PostgreSQL. Strong recruiter rapport.",
+    "createdAt": "2026-10-10T09:00:00.000Z",
+    "updatedAt": "2026-10-18T11:00:00.000Z"
+  },
+  {
+    "id": "app-002",
+    "userId": "demo-user-id-001",
+    "company": "Vercel",
+    "role": "Frontend Architect",
+    "jobLink": "https://vercel.com/careers/frontend-architect",
+    "salaryExpectation": 175000,
+    "applicationDate": "2026-10-05",
+    "status": "Offer",
+    "interviewDates": [
+      {
+        "id": "int-3",
+        "date": "2026-10-12T15:00:00.000Z",
+        "round": "Technical Deep-Dive",
+        "notes": "Discussed SSR, Edge runtime, and Next.js compiler performance.",
+        "completed": true
+      },
+      {
+        "id": "int-4",
+        "date": "2026-10-16T16:00:00.000Z",
+        "round": "VP of Engineering Round",
+        "notes": "Culture, product roadmap, and technical leadership discussion.",
+        "completed": true
+      }
+    ],
+    "notes": "Received written offer: $175,000 base + equity package. Decision deadline Nov 1st.",
+    "createdAt": "2026-10-05T08:30:00.000Z",
+    "updatedAt": "2026-10-19T17:00:00.000Z"
+  },
+  {
+    "id": "app-003",
+    "userId": "demo-user-id-001",
+    "company": "Linear",
+    "role": "Product Engineer",
+    "jobLink": "https://linear.app/careers",
+    "salaryExpectation": 155000,
+    "applicationDate": "2026-10-14",
+    "status": "Interview",
+    "interviewDates": [
+      {
+        "id": "int-5",
+        "date": "2026-10-26T16:00:00.000Z",
+        "round": "Pair Programming Exercise",
+        "notes": "Live UI coding focusing on responsiveness and keyboard shortcuts.",
+        "completed": false
+      }
+    ],
+    "notes": "Excited about their focus on high craftsmanship and speed. Reviewing sync engine docs.",
+    "createdAt": "2026-10-14T11:20:00.000Z",
+    "updatedAt": "2026-10-14T11:20:00.000Z"
+  },
+  {
+    "id": "app-004",
+    "userId": "demo-user-id-001",
+    "company": "Datadog",
+    "role": "Backend Platform Engineer",
+    "jobLink": "https://careers.datadoghq.com",
+    "salaryExpectation": 160000,
+    "applicationDate": "2026-10-18",
+    "status": "Applied",
+    "interviewDates": [],
+    "notes": "Applied through employee referral from Alex on the telemetry team.",
+    "createdAt": "2026-10-18T14:15:00.000Z",
+    "updatedAt": "2026-10-18T14:15:00.000Z"
+  },
+  {
+    "id": "app-005",
+    "userId": "demo-user-id-001",
+    "company": "Figma",
+    "role": "Software Engineer - Canvas",
+    "jobLink": "https://www.figma.com/careers",
+    "salaryExpectation": 170000,
+    "applicationDate": "2026-09-28",
+    "status": "Rejected",
+    "interviewDates": [
+      {
+        "id": "int-6",
+        "date": "2026-10-04T13:00:00.000Z",
+        "round": "Screening",
+        "notes": "Good conversation, but team decided to prioritize candidates with C++/Wasm graphics background.",
+        "completed": true
+      }
+    ],
+    "notes": "Constructive feedback received. Recommended to reapply in 6 months.",
+    "createdAt": "2026-09-28T10:00:00.000Z",
+    "updatedAt": "2026-10-06T12:00:00.000Z"
+  },
+  {
+    "id": "app-006",
+    "userId": "demo-user-id-001",
+    "company": "Airbnb",
+    "role": "Full Stack Software Engineer",
+    "jobLink": "https://careers.airbnb.com",
+    "salaryExpectation": 168000,
+    "applicationDate": "2026-10-19",
+    "status": "Applied",
+    "interviewDates": [],
+    "notes": "Applied via company careers portal for guest experience team.",
+    "createdAt": "2026-10-19T16:40:00.000Z",
+    "updatedAt": "2026-10-19T16:40:00.000Z"
+  }
+]

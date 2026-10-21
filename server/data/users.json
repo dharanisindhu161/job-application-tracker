@@ -1,0 +1,9 @@
+[
+  {
+    "id": "demo-user-id-001",
+    "name": "Demo Candidate",
+    "email": "demo@jobtracker.com",
+    "password": "$2a$10$IRLDya7uGHrCZ9tLSXTzOeeBdzL4NCoLtAudYDp0tjQJPJtdHI962",
+    "createdAt": "2026-10-21T18:50:11.926Z"
+  }
+]
